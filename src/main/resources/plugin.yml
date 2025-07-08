@@ -1,0 +1,3 @@
+name: AcidityProtect
+version: '${version}'
+main: services.acidity.aprotect.AcidityProtect
